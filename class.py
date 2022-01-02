@@ -1,3 +1,6 @@
+
+# Class concept purpose file, update this file for all class concept logics
+
 class Parent:
 
     def __init__(self,a,b):
