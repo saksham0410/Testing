@@ -85,7 +85,6 @@ for i in s:
 #     if i.lower() == "{}".format(name.lower()):
 #         data.append(i)
 #         print("data found")
-#
 print(data)
 # print(data)
 # print(s.group(0),s.start(),s.end(),s)
